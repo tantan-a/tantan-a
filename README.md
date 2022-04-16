@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @tantan-a
-
+<p align="center">
+Hi, I’m @tantan-a
+</p>
+<br/>
 <h3 align="Center">Languages and Tools:</h3>  
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
